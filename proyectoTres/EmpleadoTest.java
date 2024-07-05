@@ -1,4 +1,4 @@
-public class Testing {
+public class EmpleadoTest {
     public static void main(String[] args) {
         Empleado jazmin = new Empleado("Jazmin", "De La Fuente", 400000.00);
         System.out.println(jazmin.getNombre());
